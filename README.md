@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sudipta Kumar Roy 👋
 
-<!--
-**Jimmy-96-AI/Jimmy-96-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BCA Student | Aspiring Full-Stack & AI Developer**
 
-Here are some ideas to get you started:
+I am a BCA student at Brainware University, learning to build real projects, not just watch tutorials. Currently focused on JavaScript, Python and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Learning
+- JavaScript, HTML, CSS
+- Python
+- Git & GitHub
+- AI / Gemini APIs
+
+### 📌 What I'm Building
+- **FinSmart** - Digital wallet & personal finance web app
+- **Portfolio Website** - Coming soon
+- **Expense Tracker** - Coming soon
+
+### 📫 Connect With Me
+- 📍 Barasat, West Bengal, India
+- 📧 sudipta.k.roy1@gmail.com
+
+> "Building in public, one commit at a time."
